@@ -1,2 +1,2 @@
 'use strict';
-console.log(require('./lib/node-typesafe-config')(__dirname));
+console.log(require('./lib/safe-config')(__dirname+'/conf/application.conf'));
