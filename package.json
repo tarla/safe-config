@@ -1,0 +1,27 @@
+{
+  "name": "safe-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Tarla <joao@tarla.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2"
+  },
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarla/safe-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tarla/safe-config/issues"
+  },
+  "homepage": "https://github.com/tarla/safe-config#readme",
+  "description": ""
+}
