@@ -12,6 +12,6 @@
   "author": "João Tarla <joao@tarla.com.br>",
   "license": "ISC",
   "dependencies": {
-    "safe-config": "^1.5.0"
+    "safe-config": "^1.6.0"
   }
 }
