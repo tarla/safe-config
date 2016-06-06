@@ -4,3 +4,4 @@ console.log(config);
 console.log(config.a);
 console.log(config.env);
 console.log(config['env.home']);
+console.log(process.env['HOME']);
