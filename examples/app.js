@@ -1,2 +1,3 @@
-var config = require('safe-config')(__dirname + '/../conf/application.conf');
-console.log('version');
+var config = require('safe-config');
+console.log(config.it)
+console.log(config.version);
